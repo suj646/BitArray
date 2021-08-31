@@ -1,0 +1,16 @@
+F:\DOTNET\bitarraayex1\bitarraayex1\bin\Debug\net5.0\bitarraayex1.exe
+F:\DOTNET\bitarraayex1\bitarraayex1\bin\Debug\net5.0\bitarraayex1.deps.json
+F:\DOTNET\bitarraayex1\bitarraayex1\bin\Debug\net5.0\bitarraayex1.runtimeconfig.json
+F:\DOTNET\bitarraayex1\bitarraayex1\bin\Debug\net5.0\bitarraayex1.runtimeconfig.dev.json
+F:\DOTNET\bitarraayex1\bitarraayex1\bin\Debug\net5.0\bitarraayex1.dll
+F:\DOTNET\bitarraayex1\bitarraayex1\bin\Debug\net5.0\ref\bitarraayex1.dll
+F:\DOTNET\bitarraayex1\bitarraayex1\bin\Debug\net5.0\bitarraayex1.pdb
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\bitarraayex1.csproj.AssemblyReference.cache
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\bitarraayex1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\bitarraayex1.AssemblyInfoInputs.cache
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\bitarraayex1.AssemblyInfo.cs
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\bitarraayex1.csproj.CoreCompileInputs.cache
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\bitarraayex1.dll
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\ref\bitarraayex1.dll
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\bitarraayex1.pdb
+F:\DOTNET\bitarraayex1\bitarraayex1\obj\Debug\net5.0\bitarraayex1.genruntimeconfig.cache
